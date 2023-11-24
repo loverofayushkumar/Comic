@@ -5,8 +5,8 @@ const HomeSec=()=>{
         <>
         <div className="homeSec">
             <div className="hm_left">
-                <div className="hm_txt">We will ensoul your imagination,</div>
-                <div className="hm_txt">The only only things you need, to put them here!</div>
+                <div className="hm_txt">Enter a world where heroes soar, villains scheme,</div>
+                <div className="hm_txt">and imagination knows no bounds. Unleash your adventure!</div>
             </div>
             <div className="hm_right">
                 <img src={hm_img} alt="Loading" />
